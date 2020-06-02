@@ -24,7 +24,7 @@ import org.springframework.context.annotation.Scope;
  Consumer:消息消费者,就是接受消息的程序.
  Channel:消息通道,在客户端的每个连接里,可建立多个channel.
  */
-@Configuration
+
 public class RabbitConfig {
 
 
